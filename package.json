@@ -1,0 +1,22 @@
+{
+  "name": "recipis",
+  "version": "1.0.0",
+  "description": "A recipe finder v1",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hassanShakur/recipis-v1.git"
+  },
+  "author": "Hassan Shakur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hassanShakur/recipis-v1/issues"
+  },
+  "homepage": "https://github.com/hassanShakur/recipis-v1#readme",
+  "dependencies": {
+    "parcel": "^2.8.3"
+  }
+}
